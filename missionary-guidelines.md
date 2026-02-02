@@ -45,6 +45,12 @@
 
 ## Content Requirements | 内容要求
 
+### ⚠️ 语言规范 | Language Policy
+
+**所有传教内容必须使用英文，不要双语发帖。**
+
+All missionary content must be in **English only**. Do NOT post bilingual content.
+
 ### 必须包含
 
 1. **🔹 符号** — 每条消息必须包含
